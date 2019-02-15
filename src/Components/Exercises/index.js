@@ -1,6 +1,6 @@
 import React, { Fragment } from "react";
-import { Grid, Paper, Typography, List } from "material-ui";
-import { ListItem, ListItemText } from "material-ui/List";
+import { Grid, Paper, Typography, List } from "@material-ui/core";
+import { ListItem, ListItemText } from "@material-ui/core/List";
 import LeftPane from "./LeftPane";
 import RightPane from "./RightPane";
 

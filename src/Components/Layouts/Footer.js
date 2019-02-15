@@ -1,6 +1,6 @@
 import React from "react";
-import { Paper, Tabs } from "material-ui";
-import { Tab } from "material-ui/Tabs";
+import { Paper, Tabs } from "@material-ui/core";
+import { Tab } from "@material-ui/core/Tabs";
 
 export default ({ muscles }) => (
   <Paper>
